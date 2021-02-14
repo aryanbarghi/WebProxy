@@ -1,0 +1,8 @@
+HTTP/1.0 301 Moved Permanently
+Content-Type: text/html; charset=utf-8
+Location: http://favicon.ico/
+Date: Sat, 21 Nov 2020 19:41:32 GMT
+Content-Length: 54
+
+<a href="http://favicon.ico/">Moved Permanently</a>.
+
